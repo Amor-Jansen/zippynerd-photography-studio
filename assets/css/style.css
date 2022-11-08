@@ -18,8 +18,7 @@ h1 {
     color: #F8F0E3;
     font-size: 350%;
     text-align: center;
-    letter-spacing: 2px;
-    
+    letter-spacing: 2px;    
 }
 
 #logo {
@@ -47,7 +46,13 @@ h1 {
     margin: 0 auto;
     display: inline-block;
     list-style-type: none;
+}
+
+#menu a {
+    text-decoration: none;
     color: #F8F0E3; 
-    background: black;
-    opacity: 50%;
+}
+
+#menu a:hover {
+    border-bottom: 2px dashed #F8F0E3;
 }
