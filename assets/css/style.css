@@ -6,24 +6,48 @@ body {
     color: #F8F0E3;
     margin: 0;
     padding: 0;
+    border: 0;
     background-image: url('/assets/images/Background-image-01.jpg');
     background-position: center absolute no-repeat;
     background-size: cover;
 }
 
 /*header and logo*/
-h1, h2 {
+h1 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
-    font-size: 300%;
+    font-size: 350%;
     text-align: center;
+    letter-spacing: 2px;
+    
 }
 
 #logo {
+    font-family: Shalimar, sans-serif;
+    color: #F8F0E3;
+    font-size: 200%;
     text-align: center;
+    letter-spacing: 2px;
 }
 
 #slogan {
     text-align: center;
     font-size: 100%;
+}
+
+/* navigation links*/
+
+#menu {
+    font-size: 200%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+#menu li {
+    margin: 0 auto;
+    display: inline-block;
+    list-style-type: none;
+    color: #F8F0E3; 
+    background: black;
+    opacity: 50%;
 }
