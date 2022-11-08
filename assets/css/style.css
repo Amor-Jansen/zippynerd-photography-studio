@@ -3,13 +3,27 @@
 /*body styling*/
 body {
     font-family: Overpass, sans-serif;
+    color: #F8F0E3;
     margin: 0;
     padding: 0;
+    background-image: url('/assets/images/Background-image-01.jpg');
+    background-position: center no-repeat;
+    background-size: cover;
 }
 
 /*header and logo*/
 h1, h2 {
     font-family: Shalimar, sans-serif;
+    color: #F8F0E3;
     font-size: 300%;
-    margin: 0 auto;
+    text-align: center;
+}
+
+#logo {
+    text-align: center;
+}
+
+#slogan {
+    text-align: center;
+    font-size: 100%;
 }
