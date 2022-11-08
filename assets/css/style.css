@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('/assets/images/Background-image-01.jpg');
-    background-position: center no-repeat;
+    background-position: center absolute no-repeat;
     background-size: cover;
 }
 
