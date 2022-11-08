@@ -56,3 +56,7 @@ h1 {
 #menu a:hover {
     border-bottom: 2px dashed #F8F0E3;
 }
+
+.active {
+    border-bottom: 2px solid #F8F0E3;
+}
