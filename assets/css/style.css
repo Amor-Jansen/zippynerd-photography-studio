@@ -28,7 +28,7 @@ h2 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
     letter-spacing: 2px;
-    text-align: center;
+    display: inline;
     font-size: 350%;
     text-decoration: none;
 }
@@ -78,4 +78,24 @@ h2 {
     font-family: Overpass, sans-serif;
     text-align: center;
     letter-spacing: 1px;
+}
+
+/* footer styling*/
+
+footer {
+    height: 200px;
+}
+
+.social-media {
+    text-align: center;
+    text-decoration: none;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 200%;
+    color: #F8F0E3;
 }
