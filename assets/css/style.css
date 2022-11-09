@@ -1,32 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&family=Shalimar&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 /*body styling*/
 body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
-    margin: 0;
-    padding: 0;
-    border: 0;
     background-image: url('/assets/images/Background-image-01.jpg');
     background-position: center absolute no-repeat;
     background-size: cover;
 }
 
 /*header and logo*/
-h1 {
-    font-family: Shalimar, sans-serif;
-    color: #F8F0E3;
-    font-size: 350%;
-    text-align: center;
-    letter-spacing: 2px;    
-}
-
-#logo {
+h1, h2 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
     font-size: 200%;
     text-align: center;
+    letter-spacing: 2px;    
+}
+
+
+#logo {
+    font-family: Shalimar, sans-serif;
+    color: #F8F0E3;
+    font-size: 350%;
+    text-align: center;
     letter-spacing: 2px;
+}
+
+#logo a {
+    text-decoration: none;
 }
 
 #slogan {
