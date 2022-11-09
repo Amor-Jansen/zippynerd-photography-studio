@@ -16,7 +16,7 @@ body {
 }
 
 /*header and logo*/
-h1, h2 {
+h2 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
     font-size: 200%;
@@ -24,22 +24,25 @@ h1, h2 {
     letter-spacing: 2px;    
 }
 
-
 #logo {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
-    font-size: 350%;
-    text-align: center;
     letter-spacing: 2px;
-}
-
-#logo a {
+    text-align: center;
+    font-size: 350%;
     text-decoration: none;
 }
 
 #slogan {
     text-align: center;
     font-size: 100%;
+    padding: 25px;
+}
+
+.mid-heading {
+    text-align: center;
+    font-size: 250%;
+    padding: 50px;
 }
 
 /* navigation links*/
@@ -67,4 +70,12 @@ h1, h2 {
 
 .active {
     border-bottom: 2px solid #F8F0E3;
+}
+
+/* about us*/
+
+#about-us {
+    font-family: Overpass, sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
 }
