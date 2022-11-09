@@ -105,3 +105,13 @@ footer {
     font-size: 200%;
     color: #F8F0E3;
 }
+
+/*gallery*/
+
+#photos {
+    border: 1px solid #F8F0E3;
+}
+
+#photos img {
+    border: 1px dashed #F8F0E3;
+}
