@@ -13,6 +13,7 @@ body {
     background-image: url('/assets/images/Background-image-01.jpg');
     background-position: center absolute no-repeat;
     background-size: cover;
+    padding: 25px;
 }
 
 /*header and logo*/
@@ -21,27 +22,28 @@ h2 {
     color: #F8F0E3;
     font-size: 200%;
     text-align: center;
-    letter-spacing: 2px;    
+    letter-spacing: 2px;   
 }
 
 #logo {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
     letter-spacing: 2px;
-    display: inline;
+    text-align: center;
     font-size: 350%;
     text-decoration: none;
-}
-
-#slogan {
-    text-align: center;
-    font-size: 100%;
-    padding: 25px;
 }
 
 .mid-heading {
     text-align: center;
     font-size: 250%;
+    padding-top: 25px;
+}
+
+
+#slogan {
+    text-align: center;
+    font-size: 100%;
     padding: 50px;
 }
 
@@ -78,6 +80,7 @@ h2 {
     font-family: Overpass, sans-serif;
     text-align: center;
     letter-spacing: 1px;
+    padding: 50px;
 }
 
 /* footer styling*/
@@ -89,6 +92,8 @@ footer {
 .social-media {
     text-align: center;
     text-decoration: none;
+    padding-top: 150px;
+    letter-spacing: 5px;
 }
 
 .social-media > li {
