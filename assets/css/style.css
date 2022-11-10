@@ -134,6 +134,14 @@ footer {
     padding: 5px;
 }
 
+.submit {
+    background-color: green;
+    color: white;
+    font-size: 16px;
+}
+
 .clear {
-    background-color: coral;
+    background-color: black;
+    color: white;
+    font-size: 16px;
 }
