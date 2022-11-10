@@ -134,14 +134,18 @@ footer {
     padding: 5px;
 }
 
+#your-request {
+    border: #F8F0E3;
+}
+
 .submit {
     background-color: green;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .clear {
     background-color: black;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
 }
