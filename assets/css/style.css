@@ -124,3 +124,11 @@ footer {
 #contact-us {
     text-align: center;
 }
+
+#name {
+    padding: 5px;
+}
+
+#email-input {
+    padding: 5px;
+}
