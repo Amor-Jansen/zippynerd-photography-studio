@@ -10,19 +10,19 @@ I want to offer beautiful and elegant, yet also fun and different.
 ## Features
 ### Existing features:
 - ### Home page
-- The logo is functional as a home button:
+   - The logo is functional as a home button:
+    ![Image of the logo](/docs/screenshots/logo-home-button.png)
+   - The navigation bar is also functional to the three pages: Home, Gallery, Contact us. 
+     There is a dashed line when hovered over and it becomes solid when selected.
+    ![Image of the navigation bar](/docs/screenshots/nav-bar.png)
+   - Brief description of the company.
 
-- The navigation bar is also functional to the three pages: Home, Gallery, Contact us. 
-There is a dashed line when hovered over and it becomes solid when selected.
-
-- Brief description of the company.
-
-- Social media links that open to a new tab.
+   - Social media links that open to a new tab.
 
 - ### Gallery
 
-- Has the same navigation bar as on Home page.
+   - Has the same navigation bar as on Home page.
 
-- Images are all taken by myself (Amor Jansen).
+   - Images are all taken by myself (Amor Jansen).
 
-- It is valuable to see the level of photography.
+   - It is valuable to see the level of photography.
