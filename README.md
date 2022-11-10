@@ -61,3 +61,14 @@ The method I used to deploy this site is as follows:
     - Select save
 
 The live website can be found at :  
+
+## Credits
+ 
+ - ### Content
+    - Some insperation from the love running project by Code Institute
+    - I did Google a lot of concepts and used information from w3schools.com
+
+ - ### Media
+    
+    - All images used in this project are my own.
+    - Images cannot be used by other students.
