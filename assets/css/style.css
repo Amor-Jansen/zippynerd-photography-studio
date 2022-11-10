@@ -10,7 +10,7 @@
 body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
-    background-image: url('/css/images/Background-image-01.jpg');
+    background-image: url('../images/Background-image-01.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ h2, h3 {
 
 #mid-heading {
     text-align: center;
-    font-size: 250%;
+    font-size: 200%;
     padding-top: 30px;
 }
 
