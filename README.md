@@ -26,3 +26,11 @@ I want to offer beautiful and elegant, yet also fun and different.
    - Images are all taken by myself (Amor Jansen).
 
    - It is valuable to see the level of photography.
+
+   - Contains the same footer as the Home page.
+
+- ### Contact Us
+
+    - Has the same navigation bar as the Home page.
+
+    - Contains the same footer as home page.
