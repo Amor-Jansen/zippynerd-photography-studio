@@ -7,3 +7,4 @@ and small flowres and now I want to branch out and start photographing people mo
 The advantage of being new is the ability to offer competative rates and perhaps offer something different.
 I want to offer beautiful and elegant, yet also fun and different.
 
+## Features
