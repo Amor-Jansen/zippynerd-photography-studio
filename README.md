@@ -34,3 +34,10 @@ I want to offer beautiful and elegant, yet also fun and different.
     - Has the same navigation bar as the Home page.
 
     - Contains the same footer as home page.
+
+- ### Features to add
+
+    - I would like to add the option to purchase my original photos as prints or on canvas.
+
+    - I would like to add a blog post.
+
