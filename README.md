@@ -43,3 +43,21 @@ I want to offer beautiful and elegant, yet also fun and different.
 
 ## Testing
 
+- ### Validator testing
+    - ### HTML 
+
+    - ### CSS
+
+- ### Unfixed bugs
+
+## Deployment
+
+The method I used to deploy this site is as follows:
+
+    - Go to my Github and click on this repository
+    - Click on settings 
+    - On the left hand menu select pages
+    - Select main branch 
+    - Select save
+
+The live website can be found at :  
