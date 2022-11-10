@@ -16,7 +16,7 @@ I want to offer beautiful and elegant, yet also fun and different.
      There is a dashed line when hovered over and it becomes solid when selected.
     ![Image of the navigation bar](/docs/screenshots/nav-bar.png)
    - Brief description of the company.
-
+    ![Image of slogan and brief description](/docs/screenshots/slogan-about.png)
    - Social media links that open to a new tab.
 
 - ### Gallery
