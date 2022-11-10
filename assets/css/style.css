@@ -21,7 +21,7 @@ body {
 h2, h3 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
-    font-size: 200%;
+    font-size: 250%;
     text-align: center;
     letter-spacing: 2px;   
 }
@@ -33,14 +33,12 @@ h2, h3 {
     text-align: center;
     font-size: 350%;
     text-decoration: none;
-    height: 20%;
 }
 
-.mid-heading {
+#mid-heading {
     text-align: center;
     font-size: 250%;
     padding-top: 30px;
-    height: 20%;
 }
 
 
@@ -48,7 +46,6 @@ h2, h3 {
     text-align: center;
     font-size: 150%;
     padding-top: 50px;
-    height: 20%;
 }
 
 /* navigation links*/
@@ -57,7 +54,6 @@ h2, h3 {
     font-size: 200%;
     text-align: center;
     letter-spacing: 1px;
-    height: 20%;
 }
 
 #menu li {
