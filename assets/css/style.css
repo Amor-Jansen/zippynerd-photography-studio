@@ -11,7 +11,7 @@ body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
     background-image: url('/assets/images/Background-image-01.jpg');
-    background-position: center absolute;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 25px;
@@ -117,4 +117,10 @@ footer {
     border: 2px solid #F8F0E3;
     display: inline-flex;
     padding: 2px;
+}
+
+/*contact us*/
+
+form {
+    text-align: center;
 }
