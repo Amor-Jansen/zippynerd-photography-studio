@@ -166,6 +166,7 @@ footer {
 /*media queries*/
 
 @media screen and (max-width: 320px) {
+   /*home page*/
     #logo {
         font-size: 150%;
         text-align: center;
@@ -181,5 +182,16 @@ footer {
 
     #slogan {
         font-size: 120%;
+    }
+
+    /*gallery*/
+    #photos {
+
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    body {
+        background-image: url('../images/sunrise.JPG');
     }
 }
