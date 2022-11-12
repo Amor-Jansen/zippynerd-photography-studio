@@ -109,9 +109,11 @@ footer {
 /*gallery*/
 
 #photos {
+    margin-top: 10px;
     border: 1px solid #F8F0E3;
     padding: 5px;
     padding-left: 80px;
+    padding-top: 10px;
 }
 
 #photos img {
