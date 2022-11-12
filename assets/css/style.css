@@ -162,3 +162,24 @@ footer {
 #thank-you {
     text-align: center;
 }
+
+/*media queries*/
+
+@media screen and (max-width: 320px) {
+    #logo {
+        font-size: 150%;
+        text-align: center;
+    }
+
+    #menu {
+        font-size: 120%;
+    }
+
+    h2, h3 {
+        font-size: 100%;
+    }
+
+    #slogan {
+        font-size: 120%;
+    }
+}
