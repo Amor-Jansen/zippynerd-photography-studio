@@ -11,7 +11,7 @@ body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
     background-image: url('../images/Background-image-01.jpg');
-    background-position: center;
+    background-position: relative;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 25px;
@@ -185,13 +185,10 @@ footer {
     }
 
     /*gallery*/
-    #photos {
-
-    }
 }
 
+/*media query 1200px*/
+
 @media screen and (max-width: 1200px) {
-    body {
-        background-image: url('../images/sunrise.JPG');
-    }
+
 }
