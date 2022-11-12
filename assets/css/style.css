@@ -111,12 +111,17 @@ footer {
 #photos {
     border: 1px solid #F8F0E3;
     padding: 5px;
+    padding-left: 80px;
 }
 
 #photos img {
     border: 2px solid #F8F0E3;
     display: inline-flex;
     padding: 2px;
+}
+
+#middle-images {
+    padding-left: 25px;
 }
 
 /*contact us*/
