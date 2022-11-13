@@ -113,10 +113,11 @@ footer {
 /*gallery*/
 
 .photos {
+    margin-top: 15px;
     border: 1px solid #F8F0E3;
 
     /*code from https://dcode.domenade.com*/
-    --gap: 16px;
+    --gap: 10px;
     --num-cols: 4;
     --row-height: 300px;
 
@@ -136,7 +137,6 @@ footer {
 }
 .photos img {
     border: 2px solid #F8F0E3;
-    display: inline-block;
     padding: 2px;
 }
 
@@ -192,8 +192,29 @@ footer {
     }
    }
 
-   /*Media query 800px*/
-@media screen and (max-width: 800px) {
+   /*Media query 768px*/
+@media screen and (max-width: 768px) {
+    /*Home page*/
+
+    #logo {
+        font-size: 250%;
+    }
+
+    #menu {
+        font-size: 120%;
+    }
+
+    h2 {
+        font-size: 100%;
+    }
+
+    h3 {
+        font-size: 150%;
+    }
+    #slogan {
+        font-size: 120%;
+    }
+
     /*Gallery*/
     .photos {
         --num-cols: 2;
@@ -216,10 +237,13 @@ footer {
          font-size: 120%;
      }
  
-     h2, h3 {
+     h2 {
          font-size: 100%;
      }
- 
+
+     h3 {
+        font-size: 150%;
+     }
      #slogan {
          font-size: 120%;
      }
