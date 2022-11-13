@@ -43,7 +43,7 @@ I want to offer beautiful and elegant, yet also fun and different.
 
 - ### Features to add
 
-    - I would like to add the option to purchase my original photos as prints or on canvas.
+    - I would like to add the option to purchase my original nature photos as prints or on canvas.
 
     - I would like to add a blog post.
 
@@ -53,6 +53,10 @@ I want to offer beautiful and elegant, yet also fun and different.
     - ### HTML 
 
     - ### CSS
+
+    - ### Wave accessibility
+        - I ran the entire website through wave and the only warnings to come up were links to home page that
+          are adjacent, as well as contrast issues
 
 - ### Unfixed bugs
 
