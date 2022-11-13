@@ -181,7 +181,7 @@ footer {
 /*media queries*/
 
 
-/*media query 1200px*/
+/*media query for screens with a max width 1200px*/
 
 @media screen and (max-width: 1200px) {
 
@@ -189,10 +189,13 @@ footer {
     .photos {
         --num-cols: 4;
         --row-height: 300px;
+        margin-top: 15px;
     }
+
    }
 
-   /*Media query 768px*/
+   /*Media query for screens with a max width 768px*/
+
 @media screen and (max-width: 768px) {
     /*Home page*/
 
@@ -217,12 +220,12 @@ footer {
 
     /*Gallery*/
     .photos {
-        --num-cols: 2;
-        --row-height: 200px;
+        --num-cols: 3;
+        --row-height: 300px;
     }
 }
 
-
+/*Media query for screens with a max width of 320px*/
 
 @media screen and (max-width: 320px) {
     /*home page*/

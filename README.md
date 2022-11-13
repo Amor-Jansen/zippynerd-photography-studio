@@ -66,14 +66,14 @@ The method I used to deploy this site is as follows:
     - Select main branch 
     - Select save
 
-The live website can be found at :  
+The live website can be found at :  https://amor-jansen.github.io/zippynerd-photography-studio/contact.html
 
 ## Credits
  
  - ### Content
     - Some insperation from the love running project by Code Institute
     - I did Google a lot of concepts and used information from w3schools.com
-    - I used https://dcode.domenade.com guide on grid in css for images
+    - I used https://dcode.domenade.com guide on grid in css for images.
  - ### Media
     
     - All images used in this project are my own.
