@@ -118,8 +118,8 @@ footer {
 
     /*code from https://dcode.domenade.com*/
     --gap: 10px;
-    --num-cols: 4;
-    --row-height: 300px;
+    --num-cols: 5;
+    --row-height: 400px;
 
     box-sizing: border-box;
     padding: var(--gap);
