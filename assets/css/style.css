@@ -11,7 +11,7 @@ body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
     background-image: url('../images/Background-image-01.jpg');
-    background-position: relative;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 25px;
@@ -165,30 +165,36 @@ footer {
 
 /*media queries*/
 
-@media screen and (max-width: 320px) {
-   /*home page*/
-    #logo {
-        font-size: 150%;
-        text-align: center;
-    }
-
-    #menu {
-        font-size: 120%;
-    }
-
-    h2, h3 {
-        font-size: 100%;
-    }
-
-    #slogan {
-        font-size: 120%;
-    }
-
-    /*gallery*/
-}
 
 /*media query 1200px*/
 
 @media screen and (max-width: 1200px) {
+   
+   body {
+    background-size: 1200px;
+    height: 100%;
+    }
+   }
 
-}
+
+@media screen and (max-width: 320px) {
+    /*home page*/
+     #logo {
+         font-size: 150%;
+         text-align: center;
+     }
+ 
+     #menu {
+         font-size: 120%;
+     }
+ 
+     h2, h3 {
+         font-size: 100%;
+     }
+ 
+     #slogan {
+         font-size: 120%;
+     }
+ 
+     /*gallery*/
+ }

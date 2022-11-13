@@ -18,14 +18,17 @@ I want to offer beautiful and elegant, yet also fun and different.
    - Brief description of the company.
     ![Image of slogan and brief description](/docs/screenshots/slogan-about.png)
    - Social media links that open to a new tab.
+    ![Image of footer](/docs/screenshots/footer.png)
 
 - ### Gallery
 
    - Has the same navigation bar as on Home page.
 
    - Images are all taken by myself (Amor Jansen).
+     I would like to keep these photos as copyrighted and not for use by anyone other than me.
 
    - It is valuable to see the level of photography.
+   ![Image of some of the gallery images](/docs/screenshots/images.png)
 
    - Contains the same footer as the Home page.
 
