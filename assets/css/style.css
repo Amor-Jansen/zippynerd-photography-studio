@@ -116,18 +116,17 @@ footer {
     margin-top: 10px;
     border: 1px solid #F8F0E3;
     padding: 5px;
-    padding-left: 80px;
-    padding-top: 10px;
 }
 
 #photos img {
     border: 2px solid #F8F0E3;
-    display: inline-flex;
+    display: inline-block;
     padding: 2px;
 }
 
-#middle-images {
-    padding-left: 25px;
+img {
+    width: 20vw;
+    height: 25vh;
 }
 
 /*contact us*/
@@ -173,16 +172,28 @@ footer {
 /*media query 1200px*/
 
 @media screen and (max-width: 1200px) {
-   
-   body {
-    background-size: 1200px;
-    height: 100%;
+
+    /*Gallery*/
+
+    #photos img {
+        display: inline-block;
     }
    }
+
+   /*Media query 800px*/
+@media screen and (max-width: 800px) {
+    /*Gallery*/
+    #photos img {
+        display: inline-block; 
+    }
+}
+
 
 
 @media screen and (max-width: 320px) {
     /*home page*/
+
+
      #logo {
          font-size: 150%;
          text-align: center;
@@ -201,4 +212,8 @@ footer {
      }
  
      /*gallery*/
+
+     #photos img {
+        display: inline-block;
+     }
  }
