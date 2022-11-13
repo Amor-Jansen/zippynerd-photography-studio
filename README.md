@@ -28,13 +28,16 @@ I want to offer beautiful and elegant, yet also fun and different.
      I would like to keep these photos as copyrighted and not for use by anyone other than me.
 
    - It is valuable to see the level of photography.
-   ![Image of some of the gallery images](/docs/screenshots/images.png)
+    ![Image of some of the gallery images](/docs/screenshots/images.png)
 
    - Contains the same footer as the Home page.
 
 - ### Contact Us
 
     - Has the same navigation bar as the Home page.
+
+    - When filled in the user will be taken to a thank you screen.
+    ![Image of thank you page](/docs/screenshots/thank-you.png)
 
     - Contains the same footer as home page.
 

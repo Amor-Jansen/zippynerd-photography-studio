@@ -10,11 +10,15 @@
 body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
     background-image: url('../images/Background-image-01.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 25px;
 }
 
 /*header and logo*/
