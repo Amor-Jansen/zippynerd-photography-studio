@@ -59,11 +59,17 @@ I want to offer beautiful and elegant, yet also fun and different.
     - ### Wave accessibility
         - I ran the entire website through wave and the only warnings to come up were links to home page that
           are adjacent.
-          ![Wave accesibility Home page](/docs/screenshots/wave-homepage.png)
-          ![Wave accesibility Gallery page](/docs/screenshots/wave-gallery.png)
-          ![Wave accesibility Contact us page](/docs/screenshots/wave-contact-us.png)
+          ![Wave accessibility Home page](/docs/screenshots/wave-homepage.png)
+          ![Wave accessibility Gallery page](/docs/screenshots/wave-gallery.png)
+          ![Wave accessibility Contact us page](/docs/screenshots/wave-contact-us.png)
 
 - ### Unfixed bugs
+
+- ### Fixed bugs
+| Bug                                | How I fixed it            | Outcome |
+|-----                               |----------------           |---------|
+|Background image was not full screen| I used min-height: 100vh; | As desired|
+|Images were not displaying correctly| I used a grid method (see credits)| As desired|
 
 ## Deployment
 
