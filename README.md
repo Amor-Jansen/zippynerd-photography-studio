@@ -68,6 +68,9 @@ I want to offer beautiful and elegant, yet also fun and different.
           ![Wave accessibility Contact us page](/docs/screenshots/wave-contact-us.png)
 
 - ### Unfixed bugs
+|Bug                      |Reason                                       |
+|----------- -------------|---------------------------------------------|
+|Warning in Css validation| This is code from https://dcode.domenade.com|
 
 - ### Fixed bugs
 | Bug                                | How I fixed it            | Outcome |
@@ -94,6 +97,9 @@ The live website can be found at :  https://amor-jansen.github.io/zippynerd-phot
     - Some insperation from the love running project by Code Institute
     - I did Google a lot of concepts and used information from w3schools.com
     - I used https://dcode.domenade.com guide on grid in css for images.
+    - I used Google fonts Shalimar and Overpass
+    - I used Fontawesome for the footer logos
+    - I used Favicon.oi for my favicon.
  - ### Media
     
     - All images used in this project are my own.
