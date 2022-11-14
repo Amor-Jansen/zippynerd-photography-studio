@@ -1,5 +1,7 @@
 # ZippyNerd Photography Studio
 
+![Image of mockup](/docs/screenshots/mockup-resize.png)
+
 As a new photogropher what better way to show your work than with a website. The hope is to provide people with
 lasting memories captured in a unique and beautiful way. I fell in love with macro photography, photographing insects 
 and small flowres and now I want to branch out and start photographing people more.
