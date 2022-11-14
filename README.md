@@ -37,7 +37,7 @@ I want to offer beautiful and elegant, yet also fun and different.
    - Brief description of the company.
     ![Image of slogan and brief description](/docs/screenshots/slogan-about.png)
    - Social media links that open to a new tab.
-    ![Image of footer](/docs/screenshots/footer.png)
+    ![Image of footer](/docs/screenshots/footer-resize.png)
 
 - ### Gallery
 
@@ -73,16 +73,16 @@ I want to offer beautiful and elegant, yet also fun and different.
 - ### Validator testing
     - ### HTML 
         - I used the W3C HTML validator. I used url input.
-        ![Image of validated HTML](/docs/screenshots/html-validation.png)
+        ![Image of validated HTML](/docs/screenshots/html-validation-resize.png)
 
     - ### CSS
         - I used the W3C CSS validator. I used direct input. (There were 4 warnings on the code I used from https://dcode.domenade.com)
-        ![Image of validated CSS](/docs/screenshots/css-validation.png)
+        ![Image of validated CSS](/docs/screenshots/css-validation-resize.png)
 
     - ### Wave accessibility
         - I ran the entire website through wave and the only warnings to come up were links to home page that
           are adjacent.
-          ![Wave accessibility Home page](/docs/screenshots/wave-homepage.png)
+          ![Wave accessibility Home page](/docs/screenshots/wave-homepage-resize.png)
           ![Wave accessibility Gallery page](/docs/screenshots/wave-gallery.png)
           ![Wave accessibility Contact us page](/docs/screenshots/wave-contact-us.png)
     
