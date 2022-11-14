@@ -38,6 +38,8 @@ I want to offer beautiful and elegant, yet also fun and different.
     ![Image of slogan and brief description](/docs/screenshots/slogan-about-resize.png)
    - Social media links that open to a new tab.
     ![Image of footer](/docs/screenshots/footer-resize.png)
+   - Custom 404 page not found page.
+    ![Image of 404 page](/docs/screenshots/404-page-resize.png)
 
 - ### Gallery
 
@@ -93,8 +95,8 @@ I want to offer beautiful and elegant, yet also fun and different.
         ![Lighthouse Contact page](/docs/screenshots/lighthouse-contact-resize.png)
 
 - ### Unfixed bugs
-|Bug                      |Reason                                       |
-|----------- -------------|---------------------------------------------|
+|Bug  |Reason  |
+|-----------|-----|
 |Warning in Css validation| This is code from https://dcode.domenade.com|
 
 - ### Fixed bugs
@@ -126,6 +128,7 @@ The live website can be found at :  https://amor-jansen.github.io/zippynerd-phot
     - I used Fontawesome for the footer logos.
     - I used Favicon.oi for my favicon.
     - I used Balsamiq for the wireframes.
+    - I used https://ui.dev/amiresponsive for the image under my README logo.
  - ### Media
     
     - All images used in this project are my own.
