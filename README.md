@@ -30,12 +30,12 @@ I want to offer beautiful and elegant, yet also fun and different.
 ### Existing features:
 - ### Home page
    - The logo is functional as a home button:
-    ![Image of the logo](/docs/screenshots/logo-home-button.png)
+    ![Image of the logo](/docs/screenshots/logo-home-button-resize.png)
    - The navigation bar is also functional to the three pages: Home, Gallery, Contact us. 
      There is a dashed line when hovered over and it becomes solid when selected.
-    ![Image of the navigation bar](/docs/screenshots/nav-bar.png)
+    ![Image of the navigation bar](/docs/screenshots/nav-bar-resize.png)
    - Brief description of the company.
-    ![Image of slogan and brief description](/docs/screenshots/slogan-about.png)
+    ![Image of slogan and brief description](/docs/screenshots/slogan-about-resize.png)
    - Social media links that open to a new tab.
     ![Image of footer](/docs/screenshots/footer-resize.png)
 
@@ -47,7 +47,7 @@ I want to offer beautiful and elegant, yet also fun and different.
      I would like to keep these photos as copyrighted and not for use by anyone other than me.
 
    - It is valuable to see the level of photography.
-    ![Image of some of the gallery images](/docs/screenshots/images.png)
+    ![Image of some of the gallery images](/docs/screenshots/images-resize.png)
 
    - Contains the same footer as the Home page.
 
@@ -56,7 +56,7 @@ I want to offer beautiful and elegant, yet also fun and different.
     - Has the same navigation bar as the Home page.
 
     - When filled in the user will be taken to a thank you screen.
-    ![Image of thank you page](/docs/screenshots/thank-you.png)
+    ![Image of thank you page](/docs/screenshots/thank-you-resize.png)
 
     - Contains the same footer as home page.
 
@@ -83,14 +83,14 @@ I want to offer beautiful and elegant, yet also fun and different.
         - I ran the entire website through wave and the only warnings to come up were links to home page that
           are adjacent.
           ![Wave accessibility Home page](/docs/screenshots/wave-homepage-resize.png)
-          ![Wave accessibility Gallery page](/docs/screenshots/wave-gallery.png)
-          ![Wave accessibility Contact us page](/docs/screenshots/wave-contact-us.png)
+          ![Wave accessibility Gallery page](/docs/screenshots/wave-gallery-resize.png)
+          ![Wave accessibility Contact us page](/docs/screenshots/wave-contact-us-resize.png)
     
     - ### Lighthouse
         - I ran my page through lighthouse in chrome.
-        ![Lighthouse Home page](/docs/screenshots/lighthouse.png)
-        ![Lighthouse Gallery page](/docs/screenshots/lighthouse-gallery.png)
-        ![Lighthouse Contact page](/docs/screenshots/lighthouse-contact.png)
+        ![Lighthouse Home page](/docs/screenshots/lighthouse-rating-resize.png)
+        ![Lighthouse Gallery page](/docs/screenshots/lighthouse-gallery-resize.png)
+        ![Lighthouse Contact page](/docs/screenshots/lighthouse-contact-resize.png)
 
 - ### Unfixed bugs
 |Bug                      |Reason                                       |
