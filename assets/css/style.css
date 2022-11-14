@@ -6,7 +6,7 @@
     border: 0;
 }
 
-/*body styling*/
+/*Body styling*/
 body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
@@ -22,7 +22,7 @@ body {
     background-color: #008385;
 }
 
-/*header and logo*/
+/*Header and logo*/
 h2, h3 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
@@ -53,7 +53,7 @@ h2, h3 {
     padding-top: 50px;
 }
 
-/* navigation links*/
+/*Navigation links*/
 
 #menu {
     font-size: 200%;
@@ -80,7 +80,7 @@ h2, h3 {
     border-bottom: 2px solid #F8F0E3;
 }
 
-/* about us*/
+/*About us*/
 
 #about-us {
     font-family: Overpass, sans-serif;
@@ -89,7 +89,7 @@ h2, h3 {
     padding: 50px;
 }
 
-/* footer styling*/
+/*Footer styling*/
 
 footer {
     height: 200px;
@@ -111,7 +111,7 @@ footer {
     color: #F8F0E3;
 }
 
-/*gallery*/
+/*Gallery code for grid from https://dcode.domenade.com*/
 
 .photos {
     margin-top: 15px;
@@ -140,7 +140,7 @@ footer {
 }
 
 
-/*contact us*/
+/*Contact us*/
 
 #contact-us {
     text-align: center;
@@ -177,10 +177,16 @@ footer {
     text-align: center;
 }
 
-/*media queries*/
+/* Error 404 page styling*/
+
+#error p {
+    text-align: center;
+}
+
+/*Media queries*/
 
 
-/*media query for screens with a max width 1200px*/
+/*Media query for screens with a max width 1200px*/
 
 @media screen and (max-width: 1200px) {
 
@@ -227,7 +233,7 @@ footer {
 /*Media query for screens with a max width of 320px*/
 
 @media screen and (max-width: 320px) {
-    /*home page*/
+    /*Home page*/
 
 
      #logo {
@@ -250,7 +256,7 @@ footer {
          font-size: 120%;
      }
  
-     /*gallery*/
+     /*Gallery*/
 
      .photos {
         --num-cols: 2;
