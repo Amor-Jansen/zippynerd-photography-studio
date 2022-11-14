@@ -53,6 +53,8 @@ I want to offer beautiful and elegant, yet also fun and different.
 
 - ### Validator testing
     - ### HTML 
+        - I used the W3C HTML validator. I used url input.
+        ![Image of validated HTML](/docs/screenshots/html-validation.png)
 
     - ### CSS
         - I used the W3C CSS validator. I used direct input. (There were 4 warnings on the code I used from https://dcode.domenade.com)
@@ -72,6 +74,7 @@ I want to offer beautiful and elegant, yet also fun and different.
 |-----                               |----------------           |---------|
 |Background image was not full screen| I used min-height: 100vh; | As desired|
 |Images were not displaying correctly| I used a grid method (see credits)| As desired|
+|Validator warning in HTML           | I icluded a heading in the contact us page| As desired|
 
 ## Deployment
 
