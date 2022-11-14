@@ -55,6 +55,8 @@ I want to offer beautiful and elegant, yet also fun and different.
     - ### HTML 
 
     - ### CSS
+        - I used the W3C CSS validator. I used direct input. (There were 4 warnings on the code I used from https://dcode.domenade.com)
+        ![Image of validated CSS](/docs/screenshots/css-validation.png)
 
     - ### Wave accessibility
         - I ran the entire website through wave and the only warnings to come up were links to home page that
