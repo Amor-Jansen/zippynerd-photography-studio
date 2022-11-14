@@ -45,6 +45,8 @@ I want to offer beautiful and elegant, yet also fun and different.
 
     - I would like to add the option to purchase my original nature photos as prints or on canvas.
 
+    - I would like to add more photos to the gallery.
+
     - I would like to add a blog post.
 
 ## Testing
@@ -56,7 +58,10 @@ I want to offer beautiful and elegant, yet also fun and different.
 
     - ### Wave accessibility
         - I ran the entire website through wave and the only warnings to come up were links to home page that
-          are adjacent, as well as contrast issues
+          are adjacent.
+          ![Wave accesibility Home page](/docs/screenshots/wave-homepage.png)
+          ![Wave accesibility Gallery page](/docs/screenshots/wave-gallery.png)
+          ![Wave accesibility Contact us page](/docs/screenshots/wave-contact-us.png)
 
 - ### Unfixed bugs
 
