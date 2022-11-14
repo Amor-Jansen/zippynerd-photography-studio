@@ -10,6 +10,23 @@ The advantage of being new is the ability to offer competative rates and perhaps
 I want to offer beautiful and elegant, yet also fun and different.
 
 ## Features
+1. [Existing features](#exising-features)
+    1. [Home page](#home-page)
+    2. [Gallery](#gallery)
+    3. [Contact us](#contact-us)
+    4. [Features to add](#features-to-add)
+2. [Testing](#testing)
+    1. [HTML](#html)
+    2. [CSS](#css)
+    3. [Wave](#wave)
+    4. [Lighthouse](#lighthouse)
+3. [Unfixed bugs](#unfixed-bugs)
+4. [Fixed bugs](#fixed-bugs)
+5. [Deployment](#deployment)
+6. [Credits](#credits) 
+    1. [Content](#content)
+    2. [Media](#media)
+
 ### Existing features:
 - ### Home page
    - The logo is functional as a home button:
