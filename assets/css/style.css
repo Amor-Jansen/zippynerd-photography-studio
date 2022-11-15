@@ -180,13 +180,16 @@ intput[type=text], textarea {
     background-color: green;
     color: white;
     font-size: 20px;
+    width: 50%;
 }
 
 .clear {
     background-color: black;
     color: white;
     font-size: 20px;
+    width: 50%;
 }
+
 
 /*Thank you styling*/
 
