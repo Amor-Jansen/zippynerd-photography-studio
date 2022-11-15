@@ -118,9 +118,9 @@ footer {
     border: 1px solid #F8F0E3;
 
     /*code from https://dcode.domenade.com*/
-    --gap: 10px;
-    --num-cols: 5;
-    --row-height: 400px;
+    --gap: 20px;
+    --num-cols: 3;
+    --row-height: 300px;
     box-sizing: border-box;
     padding: var(--gap);
     display: grid;
@@ -192,7 +192,7 @@ footer {
 
     /*Gallery*/
     .photos {
-        --num-cols: 4;
+        --num-cols: 3;
         --row-height: 300px;
         margin-top: 15px;
     }
@@ -225,7 +225,7 @@ footer {
 
     /*Gallery*/
     .photos {
-        --num-cols: 3;
+        --num-cols: 1;
         --row-height: 300px;
     }
 }
@@ -259,7 +259,7 @@ footer {
      /*Gallery*/
 
      .photos {
-        --num-cols: 2;
+        --num-cols: 1;
         --row-height: 200px;
      }
  }

@@ -129,6 +129,7 @@ The live website can be found at :  https://amor-jansen.github.io/zippynerd-phot
     - I used Favicon.oi for my favicon.
     - I used Balsamiq for the wireframes.
     - I used https://ui.dev/amiresponsive for the image under my README logo.
+
  - ### Media
     
     - All images used in this project are my own.
