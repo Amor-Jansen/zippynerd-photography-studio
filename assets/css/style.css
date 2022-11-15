@@ -161,6 +161,8 @@ footer {
 .container {
     border-radius: 5px;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
 intput[type=text], textarea {
@@ -172,23 +174,6 @@ intput[type=text], textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
-}
-
-#contact-us {
-    text-align: center;
-    font-size: 30px;
-}
-
-#name {
-text-align: center;
-}
-
-#email-input {
-    text-align: center;
-}
-
-#your-request {
-    text-align: center;
 }
 
 .submit {
