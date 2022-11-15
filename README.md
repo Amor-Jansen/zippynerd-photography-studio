@@ -37,19 +37,19 @@ I want to offer beautiful and elegant, yet also fun and different.
 
 ### User stories
 - ### First time visitor goals:
-    - As a first time visitor, I want to be able to easily navigate the page.
-    - As a first time visitor, I would like to know what the page is about and what it offers.
-    - As a first time visitor, I want to find social media links and view testimonials of previous clients.
+    1. As a first time visitor, I want to be able to easily navigate the page.
+    2. As a first time visitor, I would like to know what the page is about and what it offers.
+    3. As a first time visitor, I want to find social media links and view testimonials of previous clients.
 
 - ### Returning visitor goals:
-    - As a returning visitor, I want to see more images on display.
-    - As a returning visitor, I would like to know where you are located.
-    - As a returning visitor, I would like to have more social media links.
+    1. As a returning visitor, I want to see more images on display.
+    2. As a returning visitor, I would like to know where you are located.
+    3. As a returning visitor, I would like to have more social media links.
 
 - ### Frequent user goals
-    - As a frequent user, I would like to see blog posts.
-    - As a frequent user, I would like to see the nature photos for sale as prints on canvas.
-    - As a frequent user, I would like to be notified about specials.
+    1. As a frequent user, I would like to see blog posts.
+    2. As a frequent user, I would like to see the nature photos for sale as prints on canvas.
+    3. As a frequent user, I would like to be notified about specials.
 
 ### Design
 - ### Colour scheme
@@ -157,6 +157,30 @@ I want to offer beautiful and elegant, yet also fun and different.
         [Lighthouse Contact page](/docs/screenshots/lighthouse-contact-resize.png)
 
     - ### Testing user stories
+
+- ### First time visitor goals:
+    1. As a first time visitor, I want to be able to easily navigate the page.
+        - I ensured that the navigation bar is easily recognisable.
+        - The page you are on will have a solid underline.
+        - If you hover over a different page it will have a dashed underline.
+
+    2. As a first time visitor, I would like to know what the page is about and what it offers.
+        - The pages are well labeled due to the navigation bar.
+        - There is a very nice description on the home page about the company.
+        - Once contact is made prices will be discussed.
+
+    3. As a first time visitor, I want to find social media links and view testimonials of previous clients.
+        - 
+
+- ### Returning visitor goals:
+    1. As a returning visitor, I want to see more images on display.
+    2. As a returning visitor, I would like to know where you are located.
+    3. As a returning visitor, I would like to have more social media links.
+
+- ### Frequent user goals
+    1. As a frequent user, I would like to see blog posts.
+    2. As a frequent user, I would like to see the nature photos for sale as prints on canvas.
+    3. As a frequent user, I would like to be notified about specials.
 
 - ### Unfixed bugs
 
