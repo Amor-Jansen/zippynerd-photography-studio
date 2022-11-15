@@ -170,17 +170,34 @@ I want to offer beautiful and elegant, yet also fun and different.
         - Once contact is made prices will be discussed.
 
     3. As a first time visitor, I want to find social media links and view testimonials of previous clients.
-        - 
+        - I have made sure the social icons are at the footer.
+        - All social media links open in a new tab.
 
 - ### Returning visitor goals:
     1. As a returning visitor, I want to see more images on display.
+        - Due to the responsiveness of this page adding more photos will be easy.
+        - I can only post images permitted by my clients. 
+        - More images and behind the scenecs will be posted on the social media links.
+
     2. As a returning visitor, I would like to know where you are located.
+        - I have added a clause on the home page saying where I can service.
+
     3. As a returning visitor, I would like to have more social media links.
+        - I will include more social media links as the business grows.
+        - I would like to include Twitter for competitions.
 
 - ### Frequent user goals
     1. As a frequent user, I would like to see blog posts.
+        - I have the wireframes to add that to the website. [Blog](/docs/screenshots/wireframe-blog-resize.png)
+        - As the website grows I can add more features
+
     2. As a frequent user, I would like to see the nature photos for sale as prints on canvas.
+        - As stated in the [Existing features](#exising-features) it is definitly something I want to add.
+
     3. As a frequent user, I would like to be notified about specials.
+        - I will post specials on the social media links.
+        - I will run competitions on the social media links too.
+        - I can include a newsletter as well.
 
 - ### Unfixed bugs
 
