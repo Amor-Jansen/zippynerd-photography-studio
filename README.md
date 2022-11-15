@@ -67,6 +67,9 @@ I want to offer beautiful and elegant, yet also fun and different.
     - Contact us page  - [View](/docs/screenshots/wireframe-contact-us-resize.png)
 
 ### Existing features:
+- Website is fully responsive on all devices.
+- Has interactive elements.
+
 - ### Home page
    - The logo is functional as a home button:
     [Logo](/docs/screenshots/logo-home-button-resize.png)
@@ -109,36 +112,60 @@ I want to offer beautiful and elegant, yet also fun and different.
 
     - I would like to add a blog post.
 
+## Technologies used
+
+- ### Languages used
+
+    - [HTML](https://html.com/)
+    - [CSS](https://www.w3schools.com/Css/)
+
+- ### Frameworks, Libraries and Programs used
+
+    - [Google Fonts](https://fonts.google.com/) - Used to import the Shalimar and Overpass fonts.
+    - [Font awesome](https://fontawesome.com/) - Used for the footer icons and copyright icon.
+    - [Git](https://git-scm.com/) - Used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - [Github](https://github.com/) - Used to store code after being pushed from Git.
+    - [Balsamiq](https://balsamiq.com/) - Used to create wireframes for this website.
+
 ## Testing
 
 - ### Validator testing
-    - ### HTML 
-        - I used the W3C HTML validator. I used url input.
+
+    - ### HTML
+
+    - I used the W3C HTML validator. I used url input.
         [Image of validated HTML](/docs/screenshots/html-validation-resize.png)
 
     - ### CSS
-        - I used the W3C CSS validator. I used direct input. (There were 4 warnings on the code I used from https://dcode.domenade.com)
+
+    - I used the W3C CSS validator. I used direct input. (There were 4 warnings on the code I used from https://dcode.domenade.com)
         [Image of validated CSS](/docs/screenshots/css-validation-resize.png)
 
     - ### Wave accessibility
-        - I ran the entire website through wave and the only warnings to come up were links to home page that
+
+    - I ran the entire website through wave and the only warnings to come up were links to home page that
           are adjacent.
           [Wave accessibility Home page](/docs/screenshots/wave-homepage-resize.png)
           [Wave accessibility Gallery page](/docs/screenshots/wave-gallery-resize.png)
           [Wave accessibility Contact us page](/docs/screenshots/wave-contact-us-resize.png)
     
     - ### Lighthouse
-        - I ran my page through lighthouse in chrome.
+
+    - I ran my page through lighthouse in chrome.
         [Lighthouse Home page](/docs/screenshots/lighthouse-rating-resize.png)
         [Lighthouse Gallery page](/docs/screenshots/lighthouse-gallery-resize.png)
         [Lighthouse Contact page](/docs/screenshots/lighthouse-contact-resize.png)
 
+    - ### Testing user stories
+
 - ### Unfixed bugs
+
 |Bug  |Reason  |
 |-----------|-----|
 |Warning in Css validation| This is code from https://dcode.domenade.com|
 
 - ### Fixed bugs
+
 | Bug                                | How I fixed it            | Outcome |
 |-----                               |----------------           |---------|
 |Background image was not full screen| I used min-height: 100vh; | As desired|
@@ -158,11 +185,14 @@ The method I used to deploy this site is as follows:
 The live website can be found at :  https://amor-jansen.github.io/zippynerd-photography-studio/contact.html
 
 ## Credits
- 
- - ### Content
+
+ - ### Code
     - Some insperation from the love running project by Code Institute.
     - I did Google a lot of concepts and used information from w3schools.com.
     - I used https://dcode.domenade.com guide on grid in css for images.
+ 
+ - ### Content
+
     - I used Google fonts Shalimar and Overpass.
     - I used Fontawesome for the footer logos.
     - I used Favicon.oi for my favicon.
@@ -171,5 +201,11 @@ The live website can be found at :  https://amor-jansen.github.io/zippynerd-phot
 
  - ### Media
     
+    - I used https://ui.dev/amiresponsive for the image under my README logo.
     - All images used in this project are my own.
-    - Images cannot be used by other students.
+    - Please view the copyright under the gallery.
+    - Images are subject to copyright.
+
+- ### Thanks
+
+    - A special thank you to my mentor for his helpful input and information throughout.
