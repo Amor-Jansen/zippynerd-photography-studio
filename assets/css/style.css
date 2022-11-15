@@ -163,6 +163,7 @@ footer {
     padding: 20px;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 intput[type=text], textarea {
@@ -181,6 +182,7 @@ intput[type=text], textarea {
     color: white;
     font-size: 20px;
     width: 50%;
+    margin-right: 5px;
 }
 
 .clear {
@@ -190,6 +192,13 @@ intput[type=text], textarea {
     width: 50%;
 }
 
+.buttons {
+    display: flex;
+}
+
+#name, #surname, #email-input, #request {
+    font-size: 120%;
+}
 
 /*Thank you styling*/
 
