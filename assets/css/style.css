@@ -139,6 +139,22 @@ footer {
     padding: 2px;
 }
 
+/*Copyright notice*/
+
+#copyright > a {
+    font-family: Overpass, sans-serif;
+    color: #F8F0E3;
+    letter-spacing: 2px;
+    float: right;
+    font-size: 250%;
+}
+
+#image-copyright p {
+    text-align: center;
+    font-family: Overpass, sans-serif;
+    font-size: 120%;
+}
+
 
 /*Contact us*/
 
