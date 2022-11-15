@@ -145,18 +145,45 @@ footer {
 #contact-us {
     text-align: center;
     font-size: 30px;
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #F8F0E3;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 
 #name {
-    padding: 5px;
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 
 #email-input {
-    padding: 5px;
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #F8F0E3;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 
 #your-request {
-    border: #F8F0E3;
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #F8F0E3;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 
 .submit {
