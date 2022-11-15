@@ -14,20 +14,24 @@ I want to offer beautiful and elegant, yet also fun and different.
     1. [First time visitor goals](#first-time-visitor-goals)
     2. [Returning visitor goals](#returning-visitor-goals)
     3. [Frequent user goals](#frequent-user-goals)
-2. [Existing features](#exising-features)
+2. [Design](#design)
+    1. [Colour scheme](#colour-scheme)
+    2. [Typography](#typography)
+    3. [Wireframes](#wireframes)
+3. [Existing features](#exising-features)
     1. [Home page](#home-page)
     2. [Gallery](#gallery)
     3. [Contact us](#contact-us)
     4. [Features to add](#features-to-add)
-3. [Testing](#testing)
+4. [Testing](#testing)
     1. [HTML](#html)
     2. [CSS](#css)
     3. [Wave](#wave)
     4. [Lighthouse](#lighthouse)
-4. [Unfixed bugs](#unfixed-bugs)
-5. [Fixed bugs](#fixed-bugs)
-6. [Deployment](#deployment)
-7. [Credits](#credits) 
+5. [Unfixed bugs](#unfixed-bugs)
+6. [Fixed bugs](#fixed-bugs)
+7. [Deployment](#deployment)
+8. [Credits](#credits) 
     1. [Content](#content)
     2. [Media](#media)
 
@@ -46,6 +50,21 @@ I want to offer beautiful and elegant, yet also fun and different.
     - As a frequent user, I would like to see blog posts.
     - As a frequent user, I would like to see the nature photos for sale as prints on canvas.
     - As a frequent user, I would like to be notified about specials.
+
+### Design
+- ### Colour scheme
+    - Through out this website I used a parchment colour #F8F0E3 as the main font colour.
+    - The background colour is #008385, this is set in place if the background image fails.
+
+- ### Typography
+    - I used Shalimar as a heading font. I like how it looks like cursive but is not difficult to read.
+    - I used Overpass for the rest of the body, I feel like it looks clean and again simple to read.
+    - Both fonts were imported from Google fonts.
+
+- ### Wireframes
+    - Home page wire frames
+    - Gallery wire frames
+    - Contact us page 
 
 ### Existing features:
 - ### Home page
