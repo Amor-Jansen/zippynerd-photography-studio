@@ -10,22 +10,42 @@ The advantage of being new is the ability to offer competative rates and perhaps
 I want to offer beautiful and elegant, yet also fun and different.
 
 ## Features
-1. [Existing features](#exising-features)
+1. [User stories](#user-stories)
+    1. [First time visitor goals](#first-time-visitor-goals)
+    2. [Returning visitor goals](#returning-visitor-goals)
+    3. [Frequent user goals](#frequent-user-goals)
+2. [Existing features](#exising-features)
     1. [Home page](#home-page)
     2. [Gallery](#gallery)
     3. [Contact us](#contact-us)
     4. [Features to add](#features-to-add)
-2. [Testing](#testing)
+3. [Testing](#testing)
     1. [HTML](#html)
     2. [CSS](#css)
     3. [Wave](#wave)
     4. [Lighthouse](#lighthouse)
-3. [Unfixed bugs](#unfixed-bugs)
-4. [Fixed bugs](#fixed-bugs)
-5. [Deployment](#deployment)
-6. [Credits](#credits) 
+4. [Unfixed bugs](#unfixed-bugs)
+5. [Fixed bugs](#fixed-bugs)
+6. [Deployment](#deployment)
+7. [Credits](#credits) 
     1. [Content](#content)
     2. [Media](#media)
+
+### User stories
+- ### First time visitor goals:
+    - As a first time visitor, I want to be able to easily navigate the page.
+    - As a first time visitor, I would like to know what the page is about and what it offers.
+    - As a first time visitor, I want to find social media links and view testimonials of previous clients.
+
+- ### Returning visitor goals:
+    - As a returning visitor, I want to see more images on display.
+    - As a returning visitor, I would like to know where you are located.
+    - As a returning visitor, I would like to have more social media links.
+
+- ### Frequent user goals
+    - As a frequent user, I would like to see blog posts.
+    - As a frequent user, I would like to see the nature photos for sale as prints on canvas.
+    - As a frequent user, I would like to be notified about specials.
 
 ### Existing features:
 - ### Home page
