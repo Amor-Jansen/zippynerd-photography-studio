@@ -145,6 +145,7 @@ footer {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
     letter-spacing: 2px;
+    padding-top: 10px;
     float: right;
     font-size: 200%;
 }
