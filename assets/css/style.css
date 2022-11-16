@@ -7,6 +7,7 @@
 }
 
 /*Body styling*/
+
 body {
     font-family: Overpass, sans-serif;
     color: #F8F0E3;
@@ -23,6 +24,7 @@ body {
 }
 
 /*Header and logo*/
+
 h2, h3 {
     font-family: Shalimar, sans-serif;
     color: #F8F0E3;
@@ -53,7 +55,7 @@ h2, h3 {
     padding-top: 50px;
 }
 
-/*Navigation links*/
+/*Navigation links / inspired by Love Running*/
 
 #menu {
     font-size: 200%;
@@ -111,7 +113,7 @@ footer {
     color: #F8F0E3;
 }
 
-/*Gallery code for grid from https://dcode.domenade.com*/
+/*Gallery / code for grid from https://dcode.domenade.com*/
 
 .photos {
     margin-top: 15px;
@@ -155,7 +157,6 @@ footer {
     font-family: Overpass, sans-serif;
     font-size: 120%;
 }
-
 
 /*Contact us*/
 
@@ -215,7 +216,6 @@ intput[type=text], textarea {
 
 /*Media queries*/
 
-
 /*Media query for screens with a max width 1200px*/
 
 @media screen and (max-width: 1200px) {
@@ -229,7 +229,7 @@ intput[type=text], textarea {
 
    }
 
-   /*Media query for screens with a max width 768px*/
+/*Media query for screens with a max width 768px*/
 
 @media screen and (max-width: 768px) {
     /*Home page*/
@@ -264,7 +264,6 @@ intput[type=text], textarea {
 
 @media screen and (max-width: 320px) {
     /*Home page*/
-
 
      #logo {
          font-size: 150%;
