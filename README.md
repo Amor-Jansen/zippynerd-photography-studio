@@ -72,16 +72,16 @@ I want to offer beautiful and elegant, yet also fun and different.
 
 - ### Home page
    - The logo is functional as a home button:
-    [Logo](/docs/screenshots/logo-home-button-resize.png)
+   - [Logo](/docs/screenshots/logo-home-button-resize.png)
    - The navigation bar is also functional to the three pages: Home, Gallery, Contact us. 
      There is a dashed line when hovered over and it becomes solid when selected.
-    [Image of the navigation bar](/docs/screenshots/nav-bar-resize.png)
+   - [Image of the navigation bar](/docs/screenshots/nav-bar-resize.png)
    - Brief description of the company.
-    [Image of slogan and brief description](/docs/screenshots/slogan-about-resize.png)
+   - [Image of slogan and brief description](/docs/screenshots/slogan-about-resize.png)
    - Social media links that open to a new tab.
-    [Image of footer](/docs/screenshots/footer-resize.png)
+   - [Image of footer](/docs/screenshots/footer-resize.png)
    - Custom 404 page not found page.
-    [Image of 404 page](/docs/screenshots/404-page-resize.png)
+   - [Image of 404 page](/docs/screenshots/404-page-resize.png)
 
 - ### Gallery
 
@@ -91,7 +91,7 @@ I want to offer beautiful and elegant, yet also fun and different.
      I would like to keep these photos as copyrighted and not for use by anyone other than me.
 
    - It is valuable to see the level of photography.
-    [Image of some of the gallery images](/docs/screenshots/images-resize.png)
+   - [Image of some of the gallery images](/docs/screenshots/images-resize.png)
 
    - Contains the same footer as the Home page.
 
@@ -100,7 +100,7 @@ I want to offer beautiful and elegant, yet also fun and different.
     - Has the same navigation bar as the Home page.
 
     - When filled in the user will be taken to a thank you screen.
-    [Image of thank you page](/docs/screenshots/thank-you-resize.png)
+    - [Image of thank you page](/docs/screenshots/thank-you-resize.png)
 
     - Contains the same footer as home page.
 
@@ -134,27 +134,27 @@ I want to offer beautiful and elegant, yet also fun and different.
     - ### HTML
 
     - I used the W3C HTML validator. I used url input.
-        [Image of validated HTML](/docs/screenshots/html-validation-resize.png)
+       - [Image of validated HTML](/docs/screenshots/html-validation-resize.png)
 
     - ### CSS
 
     - I used the W3C CSS validator. I used direct input. (There were 4 warnings on the code I used from https://dcode.domenade.com)
-        [Image of validated CSS](/docs/screenshots/css-validation-resize.png)
+       - [Image of validated CSS](/docs/screenshots/css-validation-resize.png)
 
     - ### Wave accessibility
 
     - I ran the entire website through wave and the only warnings to come up were links to home page that
           are adjacent.
-          [Wave accessibility Home page](/docs/screenshots/wave-homepage-resize.png)
-          [Wave accessibility Gallery page](/docs/screenshots/wave-gallery-resize.png)
-          [Wave accessibility Contact us page](/docs/screenshots/wave-contact-us-resize.png)
+        -  [Wave accessibility Home page](/docs/screenshots/wave-homepage-resize.png)
+        -  [Wave accessibility Gallery page](/docs/screenshots/wave-gallery-resize.png)
+        -  [Wave accessibility Contact us page](/docs/screenshots/wave-contact-us-resize.png)
     
     - ### Lighthouse
 
     - I ran my page through lighthouse in chrome.
-        [Lighthouse Home page](/docs/screenshots/lighthouse-rating-resize.png)
-        [Lighthouse Gallery page](/docs/screenshots/lighthouse-gallery-resize.png)
-        [Lighthouse Contact page](/docs/screenshots/lighthouse-contact-resize.png)
+       - [Lighthouse Home page](/docs/screenshots/lighthouse-rating-resize.png)
+       - [Lighthouse Gallery page](/docs/screenshots/lighthouse-gallery-resize.png)
+       - [Lighthouse Contact page](/docs/screenshots/lighthouse-contact-resize.png)
 
     - ### Testing user stories
 
@@ -188,7 +188,8 @@ I want to offer beautiful and elegant, yet also fun and different.
 
 - ### Frequent user goals
     1. As a frequent user, I would like to see blog posts.
-        - I have the wireframes to add that to the website. [Blog](/docs/screenshots/wireframe-blog-resize.png)
+        - I have the wireframes to add that to the website. 
+        - [Blog](/docs/screenshots/wireframe-blog-resize.png)
         - As the website grows I can add more features
 
     2. As a frequent user, I would like to see the nature photos for sale as prints on canvas.
@@ -228,7 +229,7 @@ The live website can be found at :  https://amor-jansen.github.io/zippynerd-phot
 ## Credits
 
  - ### Code
-    - Some insperation from the love running project by Code Institute.
+    - Some insperation from the love running project by Code Institute. (Navigation bar)
     - I did Google a lot of concepts and used information from w3schools.com.
     - I used https://dcode.domenade.com guide on grid in css for images.
  
